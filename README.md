@@ -19,6 +19,7 @@ Hagging face link,
 https://huggingface.co/spaces/pallabi/gradio_flower_classifier
 
 
+![image](https://github.com/pallabi-300/Gradio-Flower-Classification-App/assets/73606458/a8c2107e-6411-44a9-a12d-23a38e375b51)
 
 
 
